@@ -1,0 +1,23 @@
+{
+  "name": "adopt-me",
+  "version": "1.0.0",
+  "description": "Pet adoption app written in react",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js,jsx}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasEthan/adopt-me.git"
+  },
+  "keywords": [],
+  "author": "Calo Lucas Ethan Gorospe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasEthan/adopt-me/issues"
+  },
+  "homepage": "https://github.com/LucasEthan/adopt-me#readme",
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}
